@@ -1,4 +1,4 @@
-# Hi, we are Kaigo Deveveloper Support
+# Hi, we are Kaigo Developer Support
 Are you tired of scrolling through the API documentation of all different platforms while working on your projects? Try our Dr. Kaigo, who know everything about all information found in the API docs of:
 
 - Airbyte
